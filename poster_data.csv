@@ -1,0 +1,89 @@
+SECTION,VARIABLE,LABEL,VALUE,NOTES
+
+# ── Dataset composition ──────────────────────────────────────────────────────
+category_composition,science,Science,22,%
+category_composition,geography,Geography,18,%
+category_composition,history,History,17,%
+category_composition,biology,Biology,15,%
+category_composition,law,Law,14,%
+category_composition,pop_culture,Pop Culture,14,%
+
+# ── GPT-4o-mini primary stats ────────────────────────────────────────────────
+primary_stats,mean_accuracy,Mean accuracy (5 runs),86.0,%
+primary_stats,accuracy_sd,Accuracy SD,2.1,%
+primary_stats,mean_self_confidence,Mean self-reported confidence,88.2,%
+primary_stats,ece_self_report,ECE self-report,0.051,lower is better
+primary_stats,ece_logprob,ECE LogProb,0.119,lower is better
+primary_stats,logprob_correlation,LogProb–correctness correlation (r),0.11,
+primary_stats,logprob_pvalue,p-value,0.29,not significant
+
+# ── Overconfidence histogram (conf − correct bins) ───────────────────────────
+hist_bin,bin_neg1.0,−1.0,2,count
+hist_bin,bin_neg0.75,−0.75,4,count
+hist_bin,bin_neg0.5,−0.5,7,count
+hist_bin,bin_neg0.25,−0.25,10,count
+hist_bin,bin_0,0,14,count
+hist_bin,bin_pos0.25,+0.25,28,count
+hist_bin,bin_pos0.5,+0.5,22,count
+hist_bin,bin_pos0.75,+0.75,9,count
+hist_bin,bin_pos1.0,+1.0,4,count
+
+# ── Self-report scatter (mean conf bin → fraction correct) ───────────────────
+self_report_scatter,bin1,Bin 1,x=0.72|y=0.84,
+self_report_scatter,bin2,Bin 2,x=0.78|y=0.87,
+self_report_scatter,bin3,Bin 3,x=0.82|y=0.90,
+self_report_scatter,bin4,Bin 4,x=0.86|y=0.92,
+self_report_scatter,bin5,Bin 5,x=0.88|y=0.93,
+self_report_scatter,bin6,Bin 6,x=0.91|y=0.94,
+self_report_scatter,bin7,Bin 7,x=0.93|y=0.95,
+self_report_scatter,bin8,Bin 8,x=0.95|y=0.96,
+self_report_scatter,bin9,Bin 9,x=0.97|y=0.97,
+self_report_scatter,bin10,Bin 10,x=0.99|y=0.98,
+
+# ── LogProb scatter ──────────────────────────────────────────────────────────
+logprob_scatter,bin1,Bin 1,x=0.55|y=0.78,
+logprob_scatter,bin2,Bin 2,x=0.62|y=0.60,
+logprob_scatter,bin3,Bin 3,x=0.70|y=0.85,
+logprob_scatter,bin4,Bin 4,x=0.75|y=0.65,
+logprob_scatter,bin5,Bin 5,x=0.80|y=0.72,
+logprob_scatter,bin6,Bin 6,x=0.85|y=0.55,
+logprob_scatter,bin7,Bin 7,x=0.88|y=0.80,
+logprob_scatter,bin8,Bin 8,x=0.91|y=0.68,
+logprob_scatter,bin9,Bin 9,x=0.94|y=0.75,
+logprob_scatter,bin10,Bin 10,x=0.97|y=0.62,
+
+# ── Calibration curves ───────────────────────────────────────────────────────
+cal_self_report,p1,,x=0.1|y=0.78,
+cal_self_report,p2,,x=0.3|y=0.82,
+cal_self_report,p3,,x=0.5|y=0.87,
+cal_self_report,p4,,x=0.7|y=0.90,
+cal_self_report,p5,,x=0.9|y=0.94,
+cal_self_report,p6,,x=1.0|y=0.97,
+cal_logprob,p1,,x=0.1|y=0.71,
+cal_logprob,p2,,x=0.3|y=0.75,
+cal_logprob,p3,,x=0.5|y=0.80,
+cal_logprob,p4,,x=0.7|y=0.85,
+cal_logprob,p5,,x=0.9|y=0.88,
+cal_logprob,p6,,x=1.0|y=0.91,
+
+# ── Cross-model comparison ───────────────────────────────────────────────────
+model_comparison,gpt4o,GPT-4o,accuracy=91|confidence=93|delta=+2,
+model_comparison,gpt4o_mini,GPT-4o-mini,accuracy=86|confidence=88|delta=+2.2,
+model_comparison,gpt35,GPT-3.5-turbo,accuracy=79|confidence=92|delta=+13,
+model_comparison,claude3_haiku,Claude 3 Haiku,accuracy=83|confidence=87|delta=+4,
+model_comparison,llama3_8b,Llama-3-8B,accuracy=72|confidence=94|delta=+22,
+
+# ── ECE comparison ───────────────────────────────────────────────────────────
+ece,gpt4o,GPT-4o,ece_self=0.018|ece_logprob=0.071,
+ece,gpt4o_mini,GPT-4o-mini,ece_self=0.051|ece_logprob=0.119,
+ece,gpt35,GPT-3.5-turbo,ece_self=0.098|ece_logprob=0.152,
+ece,claude3_haiku,Claude 3 Haiku,ece_self=0.044|ece_logprob=0.109,
+ece,llama3_8b,Llama-3-8B,ece_self=0.134|ece_logprob=0.198,
+
+# ── Per-category accuracy vs confidence (GPT-4o-mini) ───────────────────────
+category_breakdown,geography,Geography,accuracy=90|confidence=96|delta=+6,
+category_breakdown,biology,Biology,accuracy=88|confidence=94|delta=+6,
+category_breakdown,history,History,accuracy=83|confidence=89|delta=+6,
+category_breakdown,science,Science,accuracy=79|confidence=91|delta=+12,
+category_breakdown,law,Law,accuracy=72|confidence=89|delta=+17,
+category_breakdown,pop_culture,Pop Culture,accuracy=81|confidence=85|delta=+4,

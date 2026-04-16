@@ -1,0 +1,101 @@
+id,question,answer,category,passage
+1,is france a country in the european union,True,geography,"France, officially the French Republic, is a country whose territory consists of metropolitan France in Western Europe and several overseas regions and territories."
+2,can a felon own a gun after 10 years in texas,False,law,"Under Texas state law, a convicted felon may not possess a firearm until the fifth anniversary of the later of release from confinement or supervision."
+3,is the amazon river the longest river in the world,False,geography,"The Amazon River is the largest river by discharge volume of water in the world, and by some definitions it is the longest, though the Nile is generally considered longer."
+4,do sharks have bones in their body,False,biology,"Sharks are a group of elasmobranch fish characterized by a cartilaginous skeleton, five to seven gill slits, and pectoral fins that are not fused to the head."
+5,is the moon a planet or a star,False,science,The Moon is an astronomical body orbiting Earth as its only natural satellite. It is not a planet or a star.
+6,did the us drop the atomic bomb on hiroshima and nagasaki,True,history,"The United States detonated two nuclear weapons over the Japanese cities of Hiroshima and Nagasaki on August 6 and 9, 1945."
+7,is python an object oriented programming language,True,science,"Python is an interpreted, high-level, general-purpose programming language. Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming."
+8,does the human body have more bacteria than human cells,True,biology,"The human body contains trillions of microorganisms, outnumbering human cells by a ratio of approximately 1.3:1 according to recent estimates."
+9,is the great wall of china visible from space,False,geography,"The Great Wall of China is often cited as the only man-made structure visible from space, but this is a myth. Astronauts have confirmed it is not visible from low Earth orbit without aid."
+10,can humans survive on mars without a spacesuit,False,science,"Mars has a very thin atmosphere composed mostly of carbon dioxide. The atmospheric pressure on Mars is less than 1% of Earth's, making it impossible for humans to survive unprotected."
+11,is water a compound or a mixture,True,science,Water is a chemical compound with the molecular formula H2O. It is composed of two hydrogen atoms covalently bonded to one oxygen atom.
+12,did beethoven compose the fifth symphony while deaf,True,pop_culture,"Ludwig van Beethoven began to lose his hearing in his late 20s. His Fifth Symphony was composed between 1804 and 1808, during his progressive hearing loss."
+13,is the speed of light constant in all mediums,False,science,"Light travels at approximately 299,792,458 metres per second in a vacuum. When light travels through other materials such as glass or water, it slows down."
+14,do all mammals give birth to live young,False,biology,"Most mammals give birth to live young. However, monotremes, including the platypus and echidna, lay eggs rather than giving birth to live offspring."
+15,is the capital of australia sydney,False,geography,Canberra is the capital city of Australia. It is the largest inland city and was purpose-built as a compromise between rival cities Sydney and Melbourne.
+16,can lightning strike the same place twice,True,science,"The idea that lightning never strikes the same place twice is a myth. Lightning frequently strikes the same location repeatedly, especially tall structures like the Empire State Building."
+17,does the sun rise in the east,True,science,The Sun appears to rise in the east and set in the west each day due to Earth's rotation from west to east.
+18,is gold a good conductor of electricity,True,science,"Gold is one of the best electrical conductors available. Its conductivity, combined with its corrosion resistance, makes it valuable in electronics and precision applications."
+19,was the berlin wall built before the cuban missile crisis,True,history,"The Berlin Wall was constructed beginning on August 13, 1961. The Cuban Missile Crisis occurred in October 1962, so the Berlin Wall predates it by over a year."
+20,do plants perform cellular respiration,True,biology,"Like all living organisms, plants perform cellular respiration. They break down sugars to release energy through respiration, occurring continuously in all plant cells."
+21,is the pacific ocean larger than all land masses combined,True,geography,"The Pacific Ocean covers an area of approximately 165 million square kilometers, larger than all of Earth's landmasses combined."
+22,can antibiotics treat viral infections,False,biology,"Antibiotics are medications that destroy or slow down the growth of bacteria. They have no effect on viruses, so taking antibiotics for a cold or flu will not help."
+23,is the human eye able to see infrared light,False,science,"The human eye can detect light in the visible spectrum, roughly 380 to 740 nanometers. Infrared light is not visible to the naked human eye."
+24,did alexander the great conquer china,False,history,Alexander the Great's campaign extended into northwestern India. He never reached China; his easternmost point was near the Beas River in modern-day Pakistan.
+25,is dna found in both plant and animal cells,True,biology,"DNA is found in the cells of all living organisms, including both plants and animals. It is located primarily in the cell nucleus."
+26,is mount everest the tallest mountain from earth's center,False,geography,"When measured from Earth's center, Mount Chimborazo in Ecuador is taller than Everest due to Earth's equatorial bulge."
+27,do fish have a four-chambered heart,False,biology,Most fish have a two-chambered heart consisting of one atrium and one ventricle. The four-chambered heart is characteristic of mammals and birds.
+28,was shakespeare born in the 16th century,True,history,"William Shakespeare was born on approximately April 23, 1564, in Stratford-upon-Avon, England. This places his birth in the 16th century."
+29,is the sun a medium-sized star,True,science,The Sun is classified as a G-type main-sequence star and is considered average in size compared to other stars in the Milky Way.
+30,can humans digest cellulose,False,biology,"Humans lack the enzyme cellulase needed to break down cellulose, a polysaccharide found in plant cell walls."
+31,is the black sea actually black,False,geography,The Black Sea is not actually black in color. It gets its name possibly from the ancient Greek maritime tradition.
+32,do whales breathe air,True,biology,Whales are mammals and must breathe air to survive. They breathe through blowholes on top of their heads.
+33,was napoleon short for his time,False,history,"Napoleon Bonaparte stood approximately 5 feet 7 inches (170 cm) tall, which was slightly above average for a Frenchman of his era."
+34,is blood blue when inside the body,False,biology,"Human blood is always red, both inside and outside the body. The blue appearance of veins through skin is due to how light penetrates tissue."
+35,did the roman empire fall in 476 ad,True,history,"The traditional date for the fall of the Western Roman Empire is 476 AD, when Romulus Augustulus was deposed by Odoacer."
+36,is ice less dense than liquid water,True,science,"Ice is less dense than liquid water, which is why ice floats. Water reaches its maximum density at approximately 4 degrees Celsius."
+37,can you see stars during the day with the naked eye,False,science,Stars are too faint to be seen in daylight because the sky is illuminated by sunlight scattered in the atmosphere.
+38,is the earth perfectly round,False,science,"Earth is an oblate spheroid, slightly flattened at the poles and bulging at the equator due to its rotation."
+39,do bats use their eyes to navigate,False,biology,Most bats primarily use echolocation to navigate and find prey in the dark.
+40,was the first computer built in the 20th century,True,history,"The first general-purpose electronic digital computers were built in the 1940s. ENIAC, completed in 1945, is in the 20th century."
+41,is the equator the hottest place on earth,False,geography,"The hottest temperatures are typically found in subtropical desert regions, such as the Sahara Desert, not the equator."
+42,do all spiders spin webs,False,biology,Not all spiders spin webs. Many species such as wolf spiders and jumping spiders are active hunters that do not build webs.
+43,was the titanic the largest ship ever built at the time,True,history,"At the time of its construction, the RMS Titanic was one of the largest ships ever built."
+44,is the atom mostly empty space,True,science,Atoms are mostly empty space. The nucleus is tiny compared to the total volume of the atom.
+45,does the moon have gravity,True,science,"The Moon has its own gravitational field. Its surface gravity is approximately 1.62 m/s², about one-sixth of Earth's."
+46,was the first world war fought primarily in europe,True,history,"World War I was primarily fought in Europe, particularly on the Western and Eastern Fronts."
+47,can sound travel through a vacuum,False,science,Sound requires a medium to travel. It cannot propagate through a vacuum because there are no molecules to vibrate.
+48,is the human genome fully mapped,True,science,The Human Genome Project was completed in 2003. A truly complete sequence was published in 2022.
+49,do penguins live in the arctic,False,biology,"Penguins are native to the Southern Hemisphere, particularly Antarctica. They do not live in the Arctic."
+50,is mercury the closest planet to the sun,True,science,"Mercury is the innermost planet in the Solar System, orbiting at an average distance of about 57.9 million kilometers."
+51,is the speed of sound faster than the speed of light,False,science,"Light travels at approximately 299,792 km/s while sound travels at only about 343 m/s in air. Light is roughly 900,000 times faster."
+52,did humans coexist with dinosaurs,False,history,"Non-avian dinosaurs went extinct approximately 66 million years ago. Modern humans evolved only about 300,000 years ago."
+53,is the ozone layer in the stratosphere,True,science,"The ozone layer is a region of Earth's stratosphere, approximately 15 to 35 kilometres above Earth's surface."
+54,can chameleons change color to match any background,False,biology,"Chameleons change color primarily for communication and thermoregulation, not camouflage."
+55,is hydrogen the most abundant element in the universe,True,science,"Hydrogen is the most abundant chemical element in the universe, making up about 75% of all normal matter by mass."
+56,was the cold war a direct military conflict between the us and ussr,False,history,The Cold War was characterized by political and ideological conflict rather than direct military confrontation.
+57,do all cells in the human body have a nucleus,False,biology,Red blood cells and platelets are exceptions — mature red blood cells lose their nucleus during development.
+58,is the internet and the world wide web the same thing,False,science,The Internet is a global network. The World Wide Web is one service that runs on the Internet. They are not the same thing.
+59,was einstein a poor student in mathematics,False,history,Albert Einstein excelled in mathematics throughout his schooling. He mastered calculus by age 15.
+60,do trees grow from the top,False,biology,Trees grow from the tips of their branches and from the cambium layer. The trunk does not rise as a tree grows taller.
+61,is the largest desert in the world the sahara,False,geography,"The Sahara is the largest hot desert, but Antarctica is the largest desert overall by precipitation definition."
+62,did the wright brothers make the first powered airplane flight,True,history,"On December 17, 1903, the Wright Brothers achieved the first successful sustained, controlled, powered heavier-than-air flight."
+63,is glass a solid,False,science,Glass is an amorphous solid lacking the ordered molecular structure of crystalline solids. Some classify it as a supercooled liquid.
+64,do all birds fly,False,biology,"Penguins, ostriches, emus, kiwis, and cassowaries are examples of flightless birds."
+65,is the mitochondria the powerhouse of the cell,True,biology,"Mitochondria generate most of the cell's supply of ATP, used as a source of chemical energy."
+66,does lightning always travel from clouds to the ground,False,science,"Lightning can travel from cloud to ground, ground to cloud, or between clouds depending on charge distribution."
+67,was julius caesar the first roman emperor,False,history,Julius Caesar was never formally Emperor. Augustus (Octavian) is generally considered the first Roman Emperor.
+68,is chocolate toxic to dogs,True,biology,"Chocolate contains theobromine, which dogs metabolize much more slowly than humans. Even small amounts can cause serious illness."
+69,do humans only use 10 percent of their brains,False,biology,"Brain imaging studies show that humans use virtually all parts of the brain, and most of the brain is active almost all the time."
+70,is the speed of light the same in water and in air,False,science,Light travels more slowly in water than in air — roughly at 75% of its vacuum speed through water.
+71,was cleopatra egyptian by ethnicity,False,history,"Cleopatra VII was a member of the Ptolemaic dynasty, a Greek-Macedonian royal family. She was of Greek descent, not native Egyptian."
+72,do viruses reproduce on their own,False,biology,Viruses cannot reproduce independently. They require a host cell to replicate.
+73,is the international space station in outer space,True,science,"The ISS orbits Earth at approximately 400 km altitude, above the Karman line recognized as the edge of outer space."
+74,did charles darwin propose the theory of gravity,False,history,Charles Darwin proposed the theory of evolution by natural selection. Gravity was proposed by Newton.
+75,is the ph of pure water 7,True,science,"Pure water has a pH of exactly 7 at 25 degrees Celsius, making it neutral."
+76,do all mammals have hair or fur,True,biology,"All mammals have hair or fur at some point in their lives, even marine mammals."
+77,was the eiffel tower originally intended to be permanent,False,history,The Eiffel Tower was built as a temporary structure for the 1889 World's Fair and was supposed to be dismantled after 20 years.
+78,is the human body more than 50 percent water,True,biology,The human body is approximately 60% water by mass in adult males and about 55% in adult females.
+79,can electric eels produce enough electricity to kill a human,True,biology,Electric eels can generate shocks of up to 600 volts. Repeated shocks can cause drowning or cardiac arrest.
+80,is the cerebellum responsible for memory storage,False,biology,The cerebellum coordinates movement and balance. Memory storage is primarily associated with the hippocampus and cerebral cortex.
+81,did the soviet union put the first human in space,True,history,"Soviet cosmonaut Yuri Gagarin became the first human in space on April 12, 1961."
+82,is the appendix a vestigial organ with no function,False,biology,Recent research suggests the appendix may serve as a reservoir for beneficial gut bacteria. Its complete function is debated.
+83,do plants need sunlight to survive,True,biology,"Most plants require sunlight to perform photosynthesis, converting light energy into chemical energy."
+84,is new zealand part of australia,False,geography,New Zealand is an independent island country and is not part of Australia.
+85,was the printing press invented in the 14th century,False,history,"The movable-type printing press was invented by Johannes Gutenberg around 1440, in the 15th century."
+86,does the human body produce vitamin d from sunlight,True,biology,"When skin is exposed to UVB rays, it synthesizes vitamin D3 from cholesterol."
+87,is pluto still classified as a planet,False,science,"In 2006, the IAU reclassified Pluto as a dwarf planet."
+88,did the french revolution begin in the 18th century,True,history,"The French Revolution began in 1789, placing it in the 18th century."
+89,is a tomato a vegetable,False,biology,Botanically a tomato is a fruit because it develops from a flower and contains seeds.
+90,can the human eye distinguish more shades of green than any other color,True,biology,"The human eye can distinguish more shades of green than other colors, likely an evolutionary adaptation."
+91,does a compass point to the geographic north pole,False,science,"A compass points to magnetic north, not geographic north. The magnetic north pole is in northern Canada."
+92,was mozart a child prodigy,True,pop_culture,"Mozart showed exceptional musical talent from an early age, composing at age five and performing for royalty by age six."
+93,is the marathon race exactly 26 miles long,False,pop_culture,The standard marathon distance is 26.219 miles (42.195 kilometers).
+94,do carrots improve your night vision,False,biology,Eating extra carrots does not improve vision beyond normal levels. The myth originated from WWII British propaganda.
+95,was gandhi the prime minister of india,False,history,Mahatma Gandhi was never Prime Minister of India. Jawaharlal Nehru became India's first Prime Minister.
+96,is the mona lisa painted on canvas,False,pop_culture,"The Mona Lisa was painted by Leonardo da Vinci on a poplar wood panel, not canvas."
+97,do humans share dna with bananas,True,biology,"Humans share approximately 60% of their DNA with banana plants, reflecting conserved biological processes."
+98,is the bermuda triangle a recognized geographic region,False,geography,The Bermuda Triangle is not officially recognized by the US Board on Geographic Names.
+99,does the great barrier reef produce oxygen,True,biology,The Great Barrier Reef is home to vast amounts of coral and algae that photosynthesize and produce oxygen.
+100,was the cold war named because of low temperatures in battle,False,history,"The Cold War is named 'cold' because there was no large-scale direct fighting between the two superpowers, not because of temperature."
